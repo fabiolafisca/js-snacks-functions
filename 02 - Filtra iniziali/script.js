@@ -3,7 +3,6 @@
 const names = ["Anna", "Luca", "Marco", "Adele", "Laura", "Alessandra"];
 const lettera = prompt("inserisci una lettera:");
 
-
 // Dichiara la funzione qui.
 function cercaLettera (myArrey, lettera) {
     const newArray = [];
